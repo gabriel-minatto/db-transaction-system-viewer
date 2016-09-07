@@ -1,0 +1,7 @@
+<início T1>
+<T1, Cidades, 1, valor, 1450555, 1>
+<fim T1>
+Checkpoint 
+<início T2>
+<T2, Cidades, 4, valor, 323827, 24>
+<fim T2>

@@ -1,0 +1,28 @@
+
+
+.naover	{	display:none; }
+
+#n1,#n2,#n3,#n4,#n5 { width: 40px; }
+select { width: 40px; }
+option { text-align: right; }
+#caixa_buffer_log,#caixa_log,#caixa_buffer_data,#caixa_dados { display:table-cell; padding: 20px; }
+
+.jumbotron{
+    margin: 0 auto;
+    width: 1500px;
+    
+}
+
+
+
+/*
+table { border-collapse: collapse; }
+table, th, td { border: 1px solid black}
+td { height: 10px; padding: 1px}
+
+button {
+    margin: 3px;
+    
+    
+    
+}
