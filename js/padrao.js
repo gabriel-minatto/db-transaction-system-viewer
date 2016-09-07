@@ -355,7 +355,7 @@ function geraControles(content){
 	
 	
 	
-	controles.append("<button id='checkpoint' class='btn btn-danger'>Checkpoint</button>");
+	controles.append("<button id='checkpoint' class='btn btn-info'>Checkpoint</button>");
 
 	controles.append("<button id='reset' class='btn btn-default'>Reset</button>");
 
